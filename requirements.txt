@@ -1,4 +1,4 @@
-osqp
-osqp-codegen
+osqp==1.1.2
+osqp-codegen==0.8.0
 numpy
 scipy
