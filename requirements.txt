@@ -1,0 +1,4 @@
+osqp
+osqp-codegen
+numpy
+scipy
