@@ -1,3 +1,6 @@
+import subprocess, sys
+subprocess.check_call([sys.executable, "-m", "pip", "install", "--upgrade", "pip"])
+
 import numpy as np
 import scipy.sparse as spa
 import osqp
